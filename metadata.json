@@ -1,0 +1,6 @@
+{
+  "name": "TopFollow - Instagram Followers & Engagement Boost",
+  "description": "منصة توب فلو لزيادة متابعين ولايكات انستغرام وتجميع النقاط والمكافآت اليومية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
